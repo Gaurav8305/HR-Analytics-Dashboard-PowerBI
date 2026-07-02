@@ -4,9 +4,6 @@
 
 This project is an interactive HR Analytics Dashboard developed in Microsoft Power BI. It provides insights into employee attrition, salary distribution, age groups, job satisfaction, education background, and years at the company to support HR decision-making.
 
----
-
-## Dashboard Preview
 ## Features
 
 - Employee Attrition Analysis
