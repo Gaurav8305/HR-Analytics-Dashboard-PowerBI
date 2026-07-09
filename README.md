@@ -1,39 +1,35 @@
-# 📊 HR Analytics Dashboard
+# 📊 HR Analytics Dashboard | Power BI
 
-## Overview
+## 📌 Overview
 
-This project is an interactive HR Analytics Dashboard developed in Microsoft Power BI. It provides insights into employee attrition, salary distribution, age groups, job satisfaction, education background, and years at the company to support HR decision-making.
-
-## Features
-
-- Employee Attrition Analysis
-- Attrition Rate KPI
-- Average Salary
-- Average Age
-- Average Years at Company
-- Employee Count
-- Department-wise Analysis
-- Education-wise Attrition
-- Job Role Analysis
-- Salary Slab Analysis
-- Job Satisfaction Matrix
-- Attrition by Age
-- Attrition by Years at Company
+This project is an interactive HR Analytics Dashboard developed using Microsoft Power BI. It helps analyze employee attrition, workforce demographics, salary distribution, job satisfaction, and department-wise HR performance through interactive visualizations and KPIs.
 
 ---
 
-## KPIs
+## ✨ Key Features
 
-- Average Salary
-- Employee Count
-- Attrition Count
-- Attrition Rate
-- Average Age
-- Average Years at Company
+- 📌 Dynamic Dashboard Title
+- 🏢 Department Navigation (Human Resources, Research & Development, Sales)
+- 📈 KPI Cards
+  - Average Salary
+  - Employee Count
+  - Attrition Count
+  - Attrition Rate
+  - Average Age
+  - Average Years at Company
+- 🚨 Dynamic Risk Status Indicator
+- 📅 Last Updated Date
+- 🎓 Attrition by Education
+- 👥 Attrition by Gender
+- 📊 Attrition by Age
+- 💼 Attrition by Job Role
+- 💰 Attrition by Salary Slab
+- 😊 Job Satisfaction Matrix
+- 📉 Attrition by Years at Company
 
 ---
 
-## Tools Used
+## 🛠 Tools & Technologies
 
 - Microsoft Power BI Desktop
 - Power Query
@@ -43,22 +39,27 @@ This project is an interactive HR Analytics Dashboard developed in Microsoft Pow
 
 ---
 
-## Skills Demonstrated
+## 💡 Skills Demonstrated
 
-- Data Cleaning
-- Data Transformation
+- Data Cleaning & Transformation
+- Data Modeling
 - DAX Measures
 - Interactive Dashboard Design
-- KPI Cards
-- Slicers
-- Matrix Visuals
-- Charts & Visualizations
-- HR Data Analysis
+- KPI Development
+- Dynamic Titles
+- Bookmarks & Navigation Buttons
+- Conditional Formatting
+- HR Analytics
+- Business Intelligence Reporting
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 HR Analytics Dataset
 
-**Gaurav ChanGitHub: https://github.com/YourUsername
+---
+
+## 📷 Dashboard Preview
+
+("C:\gaurav document\HR Dashboard.png")
