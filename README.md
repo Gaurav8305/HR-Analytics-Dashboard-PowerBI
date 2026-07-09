@@ -56,3 +56,7 @@ This project is an interactive HR Analytics Dashboard developed using Microsoft 
 
 (<img width="1637" height="948" alt="HR Dashboard" src="https://github.com/user-attachments/assets/94a5f59f-e52c-47c8-a5eb-b33f4c63d73a" />
 )
+(<img width="1820" height="946" alt="Human Resource " src="https://github.com/user-attachments/assets/4b976b5f-6b54-4bf9-b8ac-73185f4a8d16" />
+)
+(<img width="1712" height="818" alt="R D" src="https://github.com/user-attachments/assets/09cc39bb-bc29-43ac-b086-d520bbf24986" />
+)
