@@ -51,15 +51,8 @@ This project is an interactive HR Analytics Dashboard developed using Microsoft 
 - Conditional Formatting
 - HR Analytics
 - Business Intelligence Reporting
-
----
-
-## 📂 Dataset
-
-HR Analytics Dataset
-
----
-
+- 
 ## 📷 Dashboard Preview
 
-("C:\gaurav document\HR Dashboard.png")
+(<img width="1637" height="948" alt="HR Dashboard" src="https://github.com/user-attachments/assets/94a5f59f-e52c-47c8-a5eb-b33f4c63d73a" />
+)
